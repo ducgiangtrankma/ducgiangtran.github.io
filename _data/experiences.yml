@@ -1,0 +1,58 @@
+# - experience:
+#   role: Mobile Developer
+#   time: March 2021 - Present
+#   company: Postpay
+#   details:
+#     - detail:
+#       value: Build Postpay application from Zero
+# - experience:
+#   role: Mobile Developer
+#   time: March 2020 - March 2021
+#   company: MoMo
+#   details:
+#     - detail:
+#       value: Build MiniApp projects for Momo Application
+#     - detail:
+#       value: Build game <b>Học viện MoMo</b>
+#     - detail:
+#       value: Build game <b>Lắc xì 2021</b>
+# - experience:
+#   role: Mobile Developer
+#   time: April 2019 - Feb 2020
+#   company: JAMJA
+#   details:
+#     - detail:
+#       value: Rebuilt almost screen of product application (JAMJA)
+#     - detail:
+#       value: Upgrade rating of product application (JAMJA) from 3.7 to 4.8 on App Store
+#     - detail:
+#       value: "Learned <b>Rxjs</b>, <b>Realm</b>, create <b>Native Modules</b> to using in product application"
+# - experience:
+#   role: Mobile Developer
+#   time: Oct 2018 - April 2019
+#   company: Equilab
+#   details:
+#     - detail:
+#       value: Add React Native application in Native application base
+#     - detail:
+#       value: Using Firebase Admin
+#     - detail:
+#       value: "Learned <b>Swift</b>, <b>Java</b> to help create <b>Native Modules</b>"
+# - experience:
+#   role: Mobile Developer
+#   time: June 2017 - Oct 2018
+#   company: Agiletech Viet Nam
+#   details:
+#     - detail:
+#       value: "Became a key member of the company"
+#     - detail:
+#       value: "Built 5 projects by <b>React Native</b>"
+#     - detail:
+#       value: "Get a certificate the developer of the year"
+# - experience:
+#   role: Internship Mobile Developer
+#   time: Sep 2016 - April 2017
+#   company: Fuji Tech SJC
+#   details: 
+#     - detail:
+#       value: "Intern developer"

@@ -1,1 +1,3 @@
-# ducgiangtran.github.io
+## CV of Duc Giang
+
+#### https://ducgiangtran.github.io/

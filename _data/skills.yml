@@ -1,0 +1,12 @@
+- skill:
+  name: Programming languages
+  value: Javascript, TypeScript, Nodejs, Java, Swift
+- skill:
+  name: Frameworks
+  value: React Native, Redux, Saga, Sqlite, Realm
+- skill:
+  name: Data Management
+  value: Firebase, MySQL, Mongodb
+- skill:
+  name: Tools
+  value: Git, GitHub, JIRA, Trello
